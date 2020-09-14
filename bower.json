@@ -17,10 +17,10 @@
     "authors": [
         "Konstantin Skipor"
     ],
-    "homepage": "http://krispo.github.io/json-tree",
+    "homepage": "http://github.com/juniorgerdet/json-treex",
     "repository": {
         "type": "git",
-        "url": "https://github.com/krispo/json-tree.git"
+        "url": "https://github.com/juniorgerdet/json-treex"
     },
     "dependencies": {
         "angular": "^1.x"
