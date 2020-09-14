@@ -44,7 +44,7 @@
                         '<input class="add-value-preview-input" type="text" ng-model="inputValue" placeholder="value"/>'+
                     '</span>' +
                     '<button class="add-item-btn-add" ng-click="utils.addNode(inputKey, inputValue); addTpl = false">+</button>'+
-                    '<button class="add-item-btn-cancel" ng-click="addTpl = false">c</button>' +
+                    '<button class="add-item-btn-cancel" type="button" ng-click="addTpl = false">c</button>' +
                 '</span>';
 
             function getTemplatePromise() {
