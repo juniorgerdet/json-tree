@@ -1,6 +1,5 @@
 # Editable JSON tree
 
-[![NPM Version](http://img.shields.io/npm/v/json-tree2.svg?style=flat)](https://www.npmjs.org/package/json-tree2)
 
 An AngularJS directive used for displaying and editing JSON data in a tree view. It works independently of jQuery (only internal angular's jqLite).
 Available operations with nodes:
