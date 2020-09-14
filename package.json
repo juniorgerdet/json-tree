@@ -1,6 +1,6 @@
 {
   "name": "json-treex",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "An AngularJS directive for displaying and editing JSON tree with new features",
   "main": "json-tree.js",
   "license": "MIT",
@@ -15,7 +15,7 @@
     "editable"
   ],
   "author": {
-    "name": "Konstantin Skipor"
+    "name": "Junior Gerdet"
   },
   "homepage": "https://github.com/juniorgerdet/json-tree",
   "repository": {
